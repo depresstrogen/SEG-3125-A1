@@ -1,0 +1,3 @@
+function appointmentPopUp() {
+    alert("Success")
+}
