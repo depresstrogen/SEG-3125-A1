@@ -1,3 +1,4 @@
 function appointmentPopUp() {
-    alert("Success")
+    let alert = document.getElementById("AppointmentAlert");
+    alert.style.visibility = "visible";
 }
